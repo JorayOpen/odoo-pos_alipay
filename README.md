@@ -1,0 +1,1 @@
+# odoo-pos_alipay
